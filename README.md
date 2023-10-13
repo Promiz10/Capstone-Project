@@ -1,5 +1,5 @@
-## IBM Data Analyst Professional Certificate Capstone Project
-# Project Overview
+# IBM Data Analyst Professional Certificate Capstone Project
+## Project Overview
 In this project I  have been tasked with collecting data from various sources and identifying trends for programming skills for this year's report on emerging skills. The first task is to collect the top programming skills that are most in demand from various sources including:
 <ul>
   <li>Job postings</li>
@@ -14,4 +14,4 @@ After collecting enough data, analyzing the data and identify insights and trend
 </ul>
 Then bring all of the information together by using  IBM Cognos Analytics to create a dashboard
 
-# Data Sources
+## Data Sources
