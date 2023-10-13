@@ -1,6 +1,6 @@
 ## IBM Data Analyst Professional Certificate Capstone Project
 # Project Overview
-In this project I  have been tasked with collecting data from various sources and identifying trends for programming skilss for this year's report on emerging skills. The first task is to collect the top programming skills that are most in demand from various sources including:
+In this project I  have been tasked with collecting data from various sources and identifying trends for programming skills for this year's report on emerging skills. The first task is to collect the top programming skills that are most in demand from various sources including:
 <ul>
   <li>Job postings</li>
   <li>Training portals</li>
