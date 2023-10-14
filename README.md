@@ -2,8 +2,7 @@
 ## Project Overview
 In this project I  have been tasked with collecting data from various sources and identifying trends for programming skills for this year's report on emerging skills. The first task is to collect the top programming skills that are most in demand from various sources including:
 <ul>
-  <li>Job postings</li>
-  <li>Training portals</li>
+  <li>Training portal</li>
   <li>Surveys</li>
 </ul>
 After collecting enough data, analyzing the data and identify insights and trends that may include the following:
