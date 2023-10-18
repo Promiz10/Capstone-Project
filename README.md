@@ -9,7 +9,7 @@ After collecting enough data, analyzing the data and identify insights and trend
 <ul>
   <li>What are the top programming languages in demand?</li>
   <li>What are the top database skills in demand?</li>
-  <li>What are the popular IDEs?</li>
+  <li>What are the popular WebFrames?</li>
 </ul>
 Then bring all of the information together by using  IBM Cognos Analytics to create a dashboard
 
