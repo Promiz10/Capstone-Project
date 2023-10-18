@@ -16,3 +16,19 @@ Then bring all of the information together by using  IBM Cognos Analytics to cre
 ## Data Sources
 1. https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html
 2. https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/LargeData/m1_survey_data.csv
+
+## Conclusion
+A dashboard was created using Cognos Analytics top show the top languages, emerging languages and the respondent demographic from the survey data.
+The dashboard can be viewed below, click on the link to interact with the dashboard.
+Top Skills
+
+![dashboard_tab1](https://github.com/Promiz10/IBM-Data-Analyst-Capstone-Project/assets/139330928/69581a23-c2f5-4773-8512-2d1231d68f4d)
+
+Emerging Skills
+
+![Dashboard_tab2](https://github.com/Promiz10/IBM-Data-Analyst-Capstone-Project/assets/139330928/468f39aa-6b68-4d4c-bb81-f05e62f1c2ed)
+
+Respondent Demographics
+
+![dashboard_tab3](https://github.com/Promiz10/IBM-Data-Analyst-Capstone-Project/assets/139330928/663e3fdd-7cf4-4d65-8ef5-d7ed8439b5cb)
+
