@@ -20,6 +20,7 @@ Then bring all of the information together by using  IBM Cognos Analytics to cre
 ## Conclusion
 A dashboard was created using Cognos Analytics top show the top languages, emerging languages and the respondent demographic from the survey data.
 The dashboard can be viewed below, click on the link to interact with the dashboard.
+
 Top Skills
 
 ![dashboard_tab1](https://github.com/Promiz10/IBM-Data-Analyst-Capstone-Project/assets/139330928/69581a23-c2f5-4773-8512-2d1231d68f4d)
