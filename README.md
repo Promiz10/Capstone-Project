@@ -18,6 +18,14 @@ Then bring all of the information together by using  IBM Cognos Analytics to cre
 2. https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/LargeData/m1_survey_data.csv
 
 ## Conclusion
+
+<ul>
+    <li>The top 5 programming languages used this yeear are JavaScript, HTML/CSS, SQL, Bash/Shell/PowerShell and Python.</li>
+    <li>Top 5 Databases this year are Mysql, Microsft SQL server, PosrgreSQL, SQL Lite and MongoD, while top 5 Webframes are jQuery, Angular/Angular.js, React.js, ASP.NET, Express.</li>
+    <li>Top 5 emerging programming languages for next year are JavaScript, HTML/CSS,Python, SQL and TypeScript</li>
+    <li>Top 5 emerging Databases for next year are PostgreSQL, MongoDB, Redis, MySQL and Elasticsearch. For top 5 emerging Webframes we have React.js, Vue.js, Angular/Angular.js, ASP.NET	2382
+jQuery.</li>
+</ul>
 A dashboard was created using Cognos Analytics top show the top languages, emerging languages and the respondent demographic from the survey data.
 The dashboard can be viewed below, click on the link to interact with the dashboard.
 
